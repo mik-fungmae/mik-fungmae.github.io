@@ -9,5 +9,7 @@
 - 看看爆笑影片，讓你捧腹大笑
 
 # Contact us
-Name: HUIWEI SUN
-Address: No. 45 Xiangyuan Road Gongshu District ZHEJIANG Hangzhou China
+- Name: HUIWEI SUN
+- Address: No. 45 Xiangyuan Road Gongshu District ZHEJIANG Hangzhou China
+- Phone: +86 15012645345
+- Email: giso61@163.com
